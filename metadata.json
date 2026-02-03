@@ -1,0 +1,5 @@
+{
+  "name": "BarcodIA",
+  "description": "Generatore di codici a barre intelligente per Android e Mobile. Crea codici EAN13, Code39 e altri con descrizioni generate dall'IA.",
+  "requestFramePermissions": []
+}
